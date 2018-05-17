@@ -5,3 +5,7 @@ aprendieron los comando básicos de NODEJS.
 
 Ejecutar este comando
 
+```
+
+npm install
+```
